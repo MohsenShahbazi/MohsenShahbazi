@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohsen Shabazi
-- 👀 I’m interested in Angular typeScript javaScript and Java
+- 👀 I’m interested in Angular,React,typeScript,javaScript and Java
 - 🌱 I’m currently learning anything
 - 💞️ I’m looking to collaborate on anywhere
 - 📫 How to reach me :
