@@ -4,13 +4,9 @@
 - 💞️ I’m looking to collaborate on anywhere
 - 📫 How to reach me :
       -email:   mohsenshahbaze@gmail.com
-      
-      -telegram: @mohsenshahbazii
-      
-      -twitter : @MohsenShahbazi
-      
+      -telegram: @mohsenshahbazii      
+      -twitter : @MohsenShahbazi      
       -linkedIn : https://www.linkedin.com/in/mohsenshahbazi/
-      
       -stackoverflow : https://stackoverflow.com/users/edit/3999713
       
 
