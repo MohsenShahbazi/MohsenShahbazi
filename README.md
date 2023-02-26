@@ -6,6 +6,7 @@
       -email:   mohsenshahbaze@gmail.com
       -telegram: @mohsenshahbazii
       -twitter : @MohsenShahbazi
+      -linkedIn : https://www.linkedin.com/in/mohsenshahbazi/
 
 <!---
 MohsenShahbazi/MohsenShahbazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
