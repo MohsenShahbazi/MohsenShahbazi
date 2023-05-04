@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Citronity<br>🌱 I’m currently learning anything and everyday<br>💬 Ask me about<br>
+🔭 I’m currently working at Citronity<br>🌱 I’m currently learning anything and everyday<br>💬 Ask me about anything<br>
 
 
 ## 🌐 Socials:
