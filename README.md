@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Angular Projects**
 
-- 💬 Ask me about **Anglar and Spring boot**
+- 💬 Ask me about **Angular and Spring boot**
 
 - 📫 How to reach me **mohsenshahbaze@gmail.com**
 
