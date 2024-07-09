@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohsen Shahbazi</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/mohsenshahbazi" target="blank"><img src="https://img.shields.io/twitter/follow/mohsenshahbazi?logo=twitter&style=for-the-badge" alt="mohsenshahbazi" /></a> </p>
-
 - 🔭 I’m currently working on [Pouya Algorithm](https://paya.ws/)
 
 - 🌱 I’m currently learning **Nestjs, React and Nextjs**
@@ -18,7 +16,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mohsenshahbazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohsenshahbazi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/mohsenshahbazi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/mohsenshahbazi/" height="30" width="40" /></a>
 </p>
 
